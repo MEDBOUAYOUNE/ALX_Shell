@@ -9,3 +9,5 @@
 9: script that delete a file into a directory
 10: script that delete a directory
 11: script that change the working directory to the previous one
+12: cript that lists all files even ones with names beginning with a period character
+13: script that prints the type of the file named iamafilei
