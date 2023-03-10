@@ -12,3 +12,4 @@
 12: cript that lists all files even ones with names beginning with a period character
 13: script that prints the type of the file named iamafile
 14: script that create a symbloic link
+14: script that copy all the html files from CWD to the PWD but only the files that not in the PWD
