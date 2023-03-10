@@ -10,4 +10,5 @@
 10: script that delete a directory
 11: script that change the working directory to the previous one
 12: cript that lists all files even ones with names beginning with a period character
-13: script that prints the type of the file named iamafilei
+13: script that prints the type of the file named iamafile
+14: script that create a symbloic link
