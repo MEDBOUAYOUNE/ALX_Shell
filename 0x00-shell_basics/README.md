@@ -6,3 +6,4 @@
 6: Long format with user and group IDs displayed numerically And hidden files
 7: script that creates a directory in tmp
 8: script that move file from directory to another directory
+9: script that delete a file into a directory
