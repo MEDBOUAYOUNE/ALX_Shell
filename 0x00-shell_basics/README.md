@@ -7,3 +7,4 @@
 7: script that creates a directory in tmp
 8: script that move file from directory to another directory
 9: script that delete a file into a directory
+10: script that delete a directory
